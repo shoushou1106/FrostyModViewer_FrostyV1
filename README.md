@@ -2,7 +2,7 @@
 > Unfinished
 
 # Frosty Mod Viewer
-Cross-platform native app to view [Frosty v1](https://github.com/CadeEvs/FrostyToolsuite) mods anywhere.
+Cross-platform native app to view [Frosty v1](https://github.com/CadeEvs/FrostyToolsuite) mods anywhere. Supports iOS and Android as initial plan.
 
 # About
 
